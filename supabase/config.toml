@@ -1,0 +1,4 @@
+project_id = "tlpifatubvuciaafvgiu"
+
+[functions.order-confirmation]
+verify_jwt = true
